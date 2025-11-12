@@ -6,6 +6,11 @@
 
 <h2>Certifications </h2>
 
+<h2>Cybersecurity projects </h2>
+
+-[data monitoring in SQL] 
+
+
 -[Google Cybersecurity 
 <h2>📺 Popular YouTube Videos</h2>
 
