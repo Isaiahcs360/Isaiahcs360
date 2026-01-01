@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists using Linux to make commands and display the basic operation of the command line.
+Project consists of installing and uninstalling softwares within Linux via Advanced Package Tool (APT) and sudo within the Linux Bash shell. 
 <br />
 
 
@@ -19,32 +19,37 @@ Project consists using Linux to make commands and display the basic operation of
 <h2>SQL commands:</h2>
 
 <p align="center">
-Launch Command in SQL: <br/>
-<img src="https://i.imgur.com/Bo2jqPo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Utilizing APT: <br/>
+<img src="https://i.imgur.com/FBG9WO5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Utilizing sudo APT to install suricata:  <br/>
+<img src="https://i.imgur.com/dzJcP2k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Uninstalllation of suricata: <br/>
+<img src="https://i.imgur.com/4FJzrEy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Uninstalltion comfirmed:  <br/>
+<img src="https://i.imgur.com/ZatNAI2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Utilizing sudo ATP to install tcpdump:  <br/>
+<img src="https://i.imgur.com/2fz3ku0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Checking list of applications:  <br/>
+<img src="https://i.imgur.com/A76rpNi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zeVHod7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+fhuwejnc: <br/>
+<img src="https://i.imgur.com/gbdgL9z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
 </p>
 
 <!--
