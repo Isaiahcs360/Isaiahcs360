@@ -43,13 +43,7 @@ Checking list of applications:  <br/>
 <img src="https://i.imgur.com/A76rpNi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/zeVHod7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-fhuwejnc: <br/>
-<img src="https://i.imgur.com/gbdgL9z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- 
+
 </p>
 
 <!--
