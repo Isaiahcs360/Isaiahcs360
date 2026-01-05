@@ -1,6 +1,5 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>APT - Advanced Package Tool</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 Project consists of installing and uninstalling softwares within Linux via Advanced Package Tool (APT) and sudo within the Linux Bash shell. 
@@ -10,7 +9,7 @@ Project consists of installing and uninstalling softwares within Linux via Advan
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Commands</b>
 
 <h2>Environments Used </h2>
 
