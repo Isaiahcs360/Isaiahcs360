@@ -1,4 +1,4 @@
-<h1>Hi, I'm Isaiah <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>,</h1>
+<h1>Hi, I'm Isaiah <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/">IT</a>,</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
